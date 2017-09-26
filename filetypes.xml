@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="www" type="JavaScript" />
       <mapping ext="mjs" type="JavaScript" />
+      <mapping pattern="yarn" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping ext="opts" type="PLAIN_TEXT" />
       <mapping ext="xs" type="PLAIN_TEXT" />
