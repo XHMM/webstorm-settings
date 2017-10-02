@@ -23,7 +23,7 @@
       <option name="arguments" value="$FileName$ --pretty" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
-      <option name="exitCodeBehavior" value="NEVER" />
+      <option name="exitCodeBehavior" value="ALWAYS" />
       <option name="fileExtension" value="jade" />
       <option name="immediateSync" value="true" />
       <option name="name" value="Pug/Jade" />
