@@ -12,7 +12,6 @@
       <option name="USE_RELATIVE_INDENTS" value="false" />
     </value>
   </option>
-  <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
   <option name="FORMATTER_TAGS_ENABLED" value="true" />
   <codeStyleSettings language="CSS">
     <indentOptions>
