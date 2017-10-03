@@ -6,6 +6,7 @@
       <mapping pattern="yarn" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="该文件夹下说明" type="PLAIN_TEXT" />
+      <mapping pattern="temp" type="PLAIN_TEXT" />
       <mapping ext="opts" type="PLAIN_TEXT" />
       <mapping ext="xs" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
