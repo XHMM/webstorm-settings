@@ -7,6 +7,7 @@
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="该文件夹下说明" type="PLAIN_TEXT" />
       <mapping pattern="结构及开发说明" type="PLAIN_TEXT" />
+      <mapping pattern="后端同事请看" type="PLAIN_TEXT" />
       <mapping pattern="warn" type="PLAIN_TEXT" />
       <mapping pattern="temp" type="PLAIN_TEXT" />
       <mapping pattern="desc" type="PLAIN_TEXT" />
