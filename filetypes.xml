@@ -1,20 +1,21 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <removed_mapping ext="mjs" type="ECMAScript 6" />
       <mapping pattern="www" type="JavaScript" />
       <mapping ext="mjs" type="JavaScript" />
-      <mapping pattern="yarn" type="PLAIN_TEXT" />
-      <mapping pattern="Procfile" type="PLAIN_TEXT" />
-      <mapping pattern="该文件夹下说明" type="PLAIN_TEXT" />
-      <mapping pattern="结构及开发说明" type="PLAIN_TEXT" />
-      <mapping pattern="后端同事请看" type="PLAIN_TEXT" />
-      <mapping pattern="warn" type="PLAIN_TEXT" />
       <mapping pattern="temp" type="PLAIN_TEXT" />
       <mapping pattern="desc" type="PLAIN_TEXT" />
+      <mapping pattern="yarn" type="PLAIN_TEXT" />
+      <mapping pattern="结构及开发说明" type="PLAIN_TEXT" />
+      <mapping pattern="Procfile" type="PLAIN_TEXT" />
+      <mapping pattern="warn" type="PLAIN_TEXT" />
+      <mapping pattern="MsgDetail" type="PLAIN_TEXT" />
+      <mapping pattern="该文件夹下说明" type="PLAIN_TEXT" />
+      <mapping pattern="后端同事请看" type="PLAIN_TEXT" />
       <mapping pattern="随笔记" type="PLAIN_TEXT" />
-      <mapping ext="opts" type="PLAIN_TEXT" />
-      <mapping ext="xs" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
+      <mapping ext="xs" type="PLAIN_TEXT" />
       <mapping ext="2017-08-22" type="PLAIN_TEXT" />
       <mapping ext="conf" type="YAML" />
     </extensionMap>
