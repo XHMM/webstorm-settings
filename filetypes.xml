@@ -14,6 +14,7 @@
       <mapping pattern="该文件夹下说明" type="PLAIN_TEXT" />
       <mapping pattern="后端同事请看" type="PLAIN_TEXT" />
       <mapping pattern="随笔记" type="PLAIN_TEXT" />
+      <mapping pattern=".watchmanconfig" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
       <mapping ext="xs" type="PLAIN_TEXT" />
       <mapping ext="2017-08-22" type="PLAIN_TEXT" />
