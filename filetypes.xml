@@ -18,6 +18,7 @@
       <mapping ext="service" type="PLAIN_TEXT" />
       <mapping ext="xs" type="PLAIN_TEXT" />
       <mapping ext="2017-08-22" type="PLAIN_TEXT" />
+      <mapping pattern="normalize" type="TypeScript" />
       <mapping ext="conf" type="YAML" />
     </extensionMap>
   </component>
