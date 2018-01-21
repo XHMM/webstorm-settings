@@ -1,0 +1,6 @@
+<list display="git">
+  <action id="CheckinProject" />
+  <action id="Vcs.Push" />
+  <action id="Git.Branches" />
+  <action id="hg4idea.pull" />
+</list>
