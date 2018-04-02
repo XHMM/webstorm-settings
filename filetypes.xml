@@ -3,9 +3,10 @@
     <extensionMap>
       <mapping pattern="www" type="JavaScript" />
       <mapping pattern="CNAME" type="PLAIN_TEXT" />
-      <mapping ext="keystore" type="PLAIN_TEXT" />
-      <mapping ext="service" type="PLAIN_TEXT" />
+      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="service" type="PLAIN_TEXT" />
+      <mapping ext="keystore" type="PLAIN_TEXT" />
       <mapping ext="wxml" type="XHTML" />
     </extensionMap>
   </component>
