@@ -1,0 +1,26 @@
+<templateSet group="markdown-blog">
+  <template name="pub" value="&lt;pub&gt;$END$&lt;/pub&gt;" description="正文前奏" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS" value="false" />
+      <option name="CUCUMBER_FEATURE_FILE" value="false" />
+      <option name="CoffeeScript" value="false" />
+      <option name="DART" value="false" />
+      <option name="HAML" value="false" />
+      <option name="HTML" value="false" />
+      <option name="Handlebars" value="false" />
+      <option name="JADE" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSON" value="false" />
+      <option name="JSP" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="REQUEST" value="false" />
+      <option name="TypeScript" value="false" />
+      <option name="Vue" value="false" />
+      <option name="XML" value="false" />
+    </context>
+  </template>
+  <template name="end" value="&lt;end&gt;$END$&lt;/end&gt;" description="正文尾奏" toReformat="false" toShortenFQNames="true" />
+  <template name="para" value="&lt;para&gt;$END$&lt;/para&gt;" description="正文段落" toReformat="false" toShortenFQNames="true" />
+  <template name="word" value="&lt;word&gt;$END$&lt;/word&gt;" description="非代码名词" toReformat="false" toShortenFQNames="true" />
+  <template name="sub" value="&lt;sub&gt;$END$&lt;/sub&gt;" description="独白" toReformat="false" toShortenFQNames="true" />
+</templateSet>
