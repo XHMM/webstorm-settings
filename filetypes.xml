@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="wxss" type="CSS" />
       <mapping pattern="www" type="JavaScript" />
       <mapping pattern="CNAME" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
