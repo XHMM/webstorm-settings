@@ -1,4 +1,4 @@
-<templateSet group="wxml">
+<templateSet group="custom-wxml">
   <template name="view" value="&lt;view&gt;$END$&lt;/view&gt;" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="CSS" value="false" />
