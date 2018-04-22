@@ -8,7 +8,6 @@
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
       <mapping ext="keystore" type="PLAIN_TEXT" />
-      <mapping ext="wxml" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
