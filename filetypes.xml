@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="wxss" type="CSS" />
       <mapping pattern="www" type="JavaScript" />
+      <mapping ext="wxs" type="JavaScript" />
       <mapping pattern="CNAME" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
