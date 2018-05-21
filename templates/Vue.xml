@@ -1,5 +1,5 @@
 <templateSet group="Vue">
-  <template name="wepy" value="&lt;style&gt;&#10;&#10;&lt;/style&gt;&#10;&#10;&lt;template&gt;&#10;&#10;&lt;/template&gt;&#10;&#10;&lt;script&gt;&#10;  import wepy from 'wepy'&#10;  export default class $title$ extends wepy.$type$ {&#10;    $END$&#10;  }&#10;&lt;/script&gt;&#10;" toReformat="false" toShortenFQNames="true">
+  <template name="wepy" value="&lt;style&gt;&#10;&#10;&lt;/style&gt;&#10;&#10;&lt;template&gt;&#10;&#10;&lt;/template&gt;&#10;&#10;&lt;script&gt;&#10;  import wepy from 'wepy'&#10;  export default class $title$ extends wepy.$type$ {&#10;    $END$&#10;  }&#10;&lt;/script&gt;&#10;" description="" toReformat="false" toShortenFQNames="true">
     <variable name="title" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="true" />
     <variable name="type" expression="" defaultValue="&quot;page&quot;" alwaysStopAt="true" />
     <context>
