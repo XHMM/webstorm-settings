@@ -19,4 +19,20 @@
       <option name="XML" value="false" />
     </context>
   </template>
+  <template name="block" value="&lt;block wx:if='{{$END$}}'&gt;&#10;&#10;&lt;/block&gt;&#10;&lt;block wx:else&gt;&#10;&#10;&lt;/block&gt;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS" value="false" />
+      <option name="CoffeeScript" value="false" />
+      <option name="HTML" value="false" />
+      <option name="Handlebars" value="false" />
+      <option name="JADE" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSON" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="REQUEST" value="false" />
+      <option name="TypeScript" value="false" />
+      <option name="Vue" value="false" />
+      <option name="XML" value="false" />
+    </context>
+  </template>
 </templateSet>
