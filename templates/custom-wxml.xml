@@ -35,5 +35,5 @@
       <option name="XML" value="false" />
     </context>
   </template>
-  <template name="blockfor" value="&lt;block wx:for='{{$END$}}'&gt;&#10;&#10;&lt;/block&gt;" toReformat="false" toShortenFQNames="true" />
+  <template name="blockfor" value="&lt;block wx:for='{{$END$}}'&gt;&#10;&#10;&lt;/block&gt;" description="" toReformat="false" toShortenFQNames="true" />
 </templateSet>
