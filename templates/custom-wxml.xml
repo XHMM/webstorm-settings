@@ -19,7 +19,7 @@
       <option name="XML" value="false" />
     </context>
   </template>
-  <template name="block" value="&lt;block wx:if='{{$END$}}'&gt;&#10;&#10;&lt;/block&gt;&#10;&lt;block wx:else&gt;&#10;&#10;&lt;/block&gt;" description="" toReformat="false" toShortenFQNames="true">
+  <template name="blockif" value="&lt;block wx:if='{{$END$}}'&gt;&#10;&#10;&lt;/block&gt;&#10;&lt;block wx:else&gt;&#10;&#10;&lt;/block&gt;" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="CSS" value="false" />
       <option name="CoffeeScript" value="false" />
@@ -35,4 +35,5 @@
       <option name="XML" value="false" />
     </context>
   </template>
+  <template name="blockfor" value="&lt;block wx:for='{{$END$}}'&gt;&#10;&#10;&lt;/block&gt;" toReformat="false" toShortenFQNames="true" />
 </templateSet>
