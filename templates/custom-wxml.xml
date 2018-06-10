@@ -35,5 +35,20 @@
       <option name="XML" value="false" />
     </context>
   </template>
-  <template name="blockfor" value="&lt;block wx:for='{{$END$}}'&gt;&#10;&#10;&lt;/block&gt;" description="" toReformat="false" toShortenFQNames="true" />
+  <template name="blockfor" value="&lt;block wx:for='{{$END$}}'&gt;&#10;&#10;&lt;/block&gt;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS" value="false" />
+      <option name="CoffeeScript" value="false" />
+      <option name="HTML" value="false" />
+      <option name="Handlebars" value="false" />
+      <option name="JADE" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSON" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="REQUEST" value="false" />
+      <option name="TypeScript" value="false" />
+      <option name="Vue" value="false" />
+      <option name="XML" value="false" />
+    </context>
+  </template>
 </templateSet>
