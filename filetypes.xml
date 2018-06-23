@@ -6,6 +6,7 @@
       <mapping ext="wxs" type="JavaScript" />
       <mapping pattern="CNAME" type="PLAIN_TEXT" />
       <mapping pattern="filter" type="PLAIN_TEXT" />
+      <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
