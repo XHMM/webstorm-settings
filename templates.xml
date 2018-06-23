@@ -4,6 +4,18 @@
       <list>
         <TemplateKey>
           <option name="groupName" value="JavaScript" />
+          <option name="key" value="iter" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="JavaScript" />
+          <option name="key" value="itin" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="JavaScript" />
+          <option name="key" value="itar" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="JavaScript" />
           <option name="key" value="ritar" />
         </TemplateKey>
       </list>
