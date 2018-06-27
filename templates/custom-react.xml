@@ -1,5 +1,5 @@
 <templateSet group="custom-react">
-  <template name="ccomp" value="import * as React from 'react'&#10;&#10;class $CompName$ extends React.Component{&#10;  constructor(props){&#10;    super(props);&#10;    this.state={&#10;&#10;    }&#10;  }&#10;&#10;  render() {&#10;    return (&#10;      &lt;div&gt;&#10;        $END$&#10;      &lt;/div&gt;&#10;    )&#10;  }&#10;}&#10;&#10;export default $CompName$" description="react class component" toReformat="true" toShortenFQNames="true">
+  <template name="ccomp" value="import * as React from 'react'&#10;&#10;const initialState = {&#10;&#10;}&#10;type State = Readonly&lt;typeof initialState&gt;&#10;&#10;class $CompName$ extends React.Component{&#10;  state:State = initialState&#10;  render() {&#10;    return (&#10;      &lt;div&gt;&#10;        $END$&#10;      &lt;/div&gt;&#10;    )&#10;  }&#10;}&#10;&#10;export default $CompName$" description="react class component" toReformat="true" toShortenFQNames="true">
     <variable name="CompName" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="TypeScript" value="true" />
