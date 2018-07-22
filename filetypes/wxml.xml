@@ -11,7 +11,4 @@
     </options>
     <keywords keywords="audio;block;button;camera;canvas;checkbox;cover-view;form;icon;image;input;label;live-player;live-pusher;map;movable-view;navigator;open-data;picker;picker-view;progress;radio;rich-text;scroll-view;slider;swiper;switch;template;text;textarea;vedio;view;web-view;wxs" ignore_case="false" />
   </highlighting>
-  <extensionMap>
-    <mapping ext="wxml" />
-  </extensionMap>
 </filetype>
