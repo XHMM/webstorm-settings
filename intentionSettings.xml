@@ -1,7 +1,0 @@
-<application>
-  <component name="IntentionManagerSettings">
-    <ignoreAction name="CSS/Extract inline CSS" />
-    <ignoreAction name="XML/Remove attribute" />
-    <ignoreAction name="Language Injection/Inject language or reference" />
-  </component>
-</application>
