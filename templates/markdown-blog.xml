@@ -1,55 +1,31 @@
 <templateSet group="markdown-blog">
   <template name="pub" value="&lt;pub&gt;$END$&lt;/pub&gt;" description="正文前奏" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="DART" value="false" />
-      <option name="HAML" value="false" />
-      <option name="JSP" value="false" />
       <option name="MARKDOWN" value="true" />
     </context>
   </template>
   <template name="end" value="&lt;end&gt;$END$&lt;/end&gt;" description="正文尾奏" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="DART" value="false" />
-      <option name="HAML" value="false" />
-      <option name="JSP" value="false" />
       <option name="MARKDOWN" value="true" />
     </context>
   </template>
   <template name="para" value="&lt;para&gt;$END$&lt;/para&gt;" description="正文段落" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="DART" value="false" />
-      <option name="HAML" value="false" />
-      <option name="JSP" value="false" />
       <option name="MARKDOWN" value="true" />
     </context>
   </template>
   <template name="word" value="&lt;word&gt;$END$&lt;/word&gt;" description="非代码名词" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="DART" value="false" />
-      <option name="HAML" value="false" />
-      <option name="JSP" value="false" />
       <option name="MARKDOWN" value="true" />
     </context>
   </template>
   <template name="sub" value="&lt;sub&gt;$END$&lt;/sub&gt;" description="独白" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="DART" value="false" />
-      <option name="HAML" value="false" />
-      <option name="JSP" value="false" />
       <option name="MARKDOWN" value="true" />
     </context>
   </template>
   <template name="a" value="&lt;a href=&quot;mailto:super.xhmm@gmail.com&quot;&gt;super.xhmm@gmail.com&lt;a/&gt; " description="邮箱" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="DART" value="false" />
-      <option name="HAML" value="false" />
-      <option name="JSP" value="false" />
       <option name="MARKDOWN" value="true" />
     </context>
   </template>
