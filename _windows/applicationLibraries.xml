@@ -1,5 +1,16 @@
 <application>
   <component name="libraryTable">
+    <library name="echarts" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.bootcss.com_echarts_4.1.0_echarts.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.bootcss.com_echarts_4.1.0_echarts.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="fetch" type="javaScript">
       <properties>
         <sourceFilesUrls>
