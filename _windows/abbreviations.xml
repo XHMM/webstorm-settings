@@ -1,0 +1,12 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="ActivateTerminalToolWindow">
+        <abbreviation name="cmd" />
+      </action>
+      <action id="RevealIn">
+        <abbreviation name="show" />
+      </action>
+    </abbreviations>
+  </component>
+</application>
