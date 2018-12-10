@@ -10,6 +10,7 @@
       <mapping pattern="防遗忘说明,txt" type="PLAIN_TEXT" />
       <mapping pattern="browserslist" type="PLAIN_TEXT" />
       <mapping pattern="2018-12-06-Elements-kinds-in-V8" type="PLAIN_TEXT" />
+      <mapping pattern="smallappUser" type="PLAIN_TEXT" />
       <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
       <mapping pattern="no_noise_imgs" type="PLAIN_TEXT" />
       <mapping pattern="2018-10-21-vscode-plugin-for-web-develop" type="PLAIN_TEXT" />
