@@ -13,7 +13,6 @@
       <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
       <mapping pattern="no_noise_imgs" type="PLAIN_TEXT" />
       <mapping pattern="2018-10-21-vscode-plugin-for-web-develop" type="PLAIN_TEXT" />
-      <mapping ext="graphql" type="PLAIN_TEXT" />
       <mapping pattern="urls" type="TypeScript" />
     </extensionMap>
   </component>
