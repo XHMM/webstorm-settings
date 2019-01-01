@@ -66,5 +66,16 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="weui" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_res.wx.qq.com_open_libs_weuijs_1.1.4_weui.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_res.wx.qq.com_open_libs_weuijs_1.1.4_weui.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
   </component>
 </application>
