@@ -14,4 +14,11 @@
       <option name="TS_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="uses" value="const [$STATE$, use$STATE_UPPER_FIRST$] = useState($END$);" toReformat="false" toShortenFQNames="true">
+    <variable name="STATE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="STATE_UPPER_FIRST" expression="capitalize(STATE)" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>
