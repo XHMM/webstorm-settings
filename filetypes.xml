@@ -5,6 +5,7 @@
       <mapping ext="wxml" type="HTML" />
       <mapping ext="mdx" type="Markdown" />
       <mapping pattern=".eiditorconfig" type="PLAIN_TEXT" />
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
