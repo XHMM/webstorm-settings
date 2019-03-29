@@ -8,7 +8,7 @@
   <option name="LINE_SEPARATOR" value="&#10;" />
   <option name="RIGHT_MARGIN" value="150" />
   <option name="FORMATTER_TAGS_ENABLED" value="true" />
-  <JSCodeStyleSettings>
+  <JSCodeStyleSettings version="0">
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
     <option name="SPACE_BEFORE_FUNCTION_LEFT_PARENTH" value="false" />
     <option name="USE_DOUBLE_QUOTES" value="false" />
@@ -21,7 +21,7 @@
   <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
-  <TypeScriptCodeStyleSettings>
+  <TypeScriptCodeStyleSettings version="0">
     <option name="IMPORT_SORT_MEMBERS" value="false" />
   </TypeScriptCodeStyleSettings>
   <codeStyleSettings language="CSS">
@@ -83,6 +83,13 @@
   <codeStyleSettings language="SCSS">
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="Twig">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
       <option name="TAB_SIZE" value="2" />
     </indentOptions>
   </codeStyleSettings>
