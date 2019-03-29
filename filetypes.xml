@@ -9,6 +9,8 @@
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="q" type="PLAIN_TEXT" />
       <mapping pattern="a" type="PLAIN_TEXT" />
+      <mapping pattern=".postcssrc" type="PLAIN_TEXT" />
+      <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
       <removed_mapping ext="wxs" approved="true" type="Vue.js" />
     </extensionMap>
   </component>
