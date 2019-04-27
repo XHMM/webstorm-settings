@@ -12,6 +12,7 @@
       <mapping pattern=".postcssrc" type="PLAIN_TEXT" />
       <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
+      <mapping pattern="100-same-tree" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".sassrc" type="PLAIN_TEXT" />
       <mapping pattern="2019-04-18-useful-but-not-requently-used-sites-collection" type="PLAIN_TEXT" />
