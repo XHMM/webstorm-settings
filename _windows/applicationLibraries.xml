@@ -1,0 +1,15 @@
+<application>
+  <component name="libraryTable">
+    <library name="hammer" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.bootcss.com_hammer.js_2.0.8_hammer.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.bootcss.com_hammer.js_2.0.8_hammer.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>
