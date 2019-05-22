@@ -11,5 +11,16 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="interact" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_interactjs_dist_interact.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_interactjs_dist_interact.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
   </component>
 </application>
