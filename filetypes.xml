@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="wxss" type="CSS" />
       <mapping ext="wxml" type="HTML" />
+      <mapping ext="wxs" type="JavaScript" />
       <mapping ext="mdx" type="Markdown" />
       <mapping pattern="aa" type="PLAIN_TEXT" />
       <mapping pattern=".eiditorconfig" type="PLAIN_TEXT" />
