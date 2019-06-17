@@ -1,5 +1,16 @@
 <application>
   <component name="libraryTable">
+    <library name="frontend-image-compress" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_frontend-image-compress@latest_dist_frontend-image-compress.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_frontend-image-compress@latest_dist_frontend-image-compress.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="hammer" type="javaScript">
       <properties>
         <sourceFilesUrls>
@@ -8,6 +19,17 @@
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.bootcss.com_hammer.js_2.0.8_hammer.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="index.umd" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_dom-crud@latest_build_index.umd.min.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_dom-crud@latest_build_index.umd.min.js" />
       </CLASSES>
       <SOURCES />
     </library>
