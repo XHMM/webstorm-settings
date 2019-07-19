@@ -1,10 +1,10 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="4897a096-9cb2-432e-a369-3e2024e17fca" name="cw" url="http://cw.liaojungang.com">
-        <fileTransfer host="cw.liaojungang.com" port="22" privateKey="C:\Users\xh\cw-xhmm.ppk" accessType="SFTP" keyPair="true">
+      <webServer id="34a9f9e0-02e9-4931-9b8f-434b1b25907f" name="tencent-xhmm" url="http://49.234.10.53">
+        <fileTransfer host="49.234.10.53" port="22" privateKey="C:\Users\xh\tencent-xhmm.ppk" accessType="SFTP" keyPair="true">
           <advancedOptions>
-            <advancedOptions controlEncoding="utf-8" dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
           <option name="port" value="22" />
         </fileTransfer>
