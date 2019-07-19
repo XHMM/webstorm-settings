@@ -9,6 +9,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="5da859b1-939c-4de3-8bdc-06c1086b0863" name="aliyun-cw" url="http://47.110.53.69">
+        <fileTransfer host="47.110.53.69" port="22" privateKey="C:\Users\xh\cw-xhmm.ppk" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
