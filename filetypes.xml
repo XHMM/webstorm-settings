@@ -16,6 +16,7 @@
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="2019-04-18-useful-but-not-requently-used-sites-collection" type="PLAIN_TEXT" />
       <mapping pattern=".sassrc" type="PLAIN_TEXT" />
+      <mapping pattern="promise-implement-in-js" type="PLAIN_TEXT" />
       <mapping pattern=".scssrc" type="PLAIN_TEXT" />
       <mapping pattern="mnist_labels_uint8" type="PLAIN_TEXT" />
       <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
