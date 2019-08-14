@@ -22,6 +22,7 @@
       <mapping pattern="q" type="PLAIN_TEXT" />
       <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
+      <mapping pattern="LISCENSE" type="PLAIN_TEXT" />
       <mapping pattern="promise-implement-in-js" type="PLAIN_TEXT" />
       <mapping pattern=".browserslist" type="PLAIN_TEXT" />
       <mapping ext="obj" type="PLAIN_TEXT" />
