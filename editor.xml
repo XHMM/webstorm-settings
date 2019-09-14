@@ -4,4 +4,5 @@
     <option name="SOFT_WRAP_FILE_MASKS" value="*" />
     <option name="ADDITIONAL_PAGE_AT_BOTTOM" value="true" />
   </component>
+  <component name="LiveEditOptions" restartIfHotSwapFailed="true" />
 </application>
