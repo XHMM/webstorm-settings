@@ -60,11 +60,13 @@
         <sourceFilesUrls>
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__res.wx.qq.com_open_libs_weui_1.1.3_weui.css" />
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_res.wx.qq.com_open_libs_weui_1.1.3_weui.css" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_res.wx.qq.com_open_libs_weui_2.1.2_weui.css" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__res.wx.qq.com_open_libs_weui_1.1.3_weui.css" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_res.wx.qq.com_open_libs_weui_1.1.3_weui.css" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_res.wx.qq.com_open_libs_weui_2.1.2_weui.css" />
       </CLASSES>
       <SOURCES />
     </library>
