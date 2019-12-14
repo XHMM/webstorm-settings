@@ -25,7 +25,6 @@
       <mapping pattern="2019-04-18-useful-but-not-requently-used-sites-collection" type="PLAIN_TEXT" />
       <mapping pattern="comparison-operators-and-type-convert-in-js" type="PLAIN_TEXT" />
       <mapping ext="obj" type="PLAIN_TEXT" />
-      <mapping ext="proto" type="PLAIN_TEXT" />
       <mapping ext="bson" type="PLAIN_TEXT" />
       <mapping ext="-" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
