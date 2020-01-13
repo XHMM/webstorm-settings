@@ -1,5 +1,5 @@
 <templateSet group="JavaScript">
-  <template name="try" value="try {&#10;    $END$&#10;} catch (e) {&#10;  console.log(e)&#10;}" description="try catch" toReformat="false" toShortenFQNames="true">
+  <template name="try" value="try {&#10;    $END$&#10;} catch (e) {&#10;  console.error(e)&#10;}" description="try catch" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="TypeScript" value="true" />
     </context>
