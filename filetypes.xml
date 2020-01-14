@@ -2,6 +2,8 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="wxss" type="CSS" />
+      <mapping ext="node" type="Dockerfile" />
+      <mapping ext="coolq" type="Dockerfile" />
       <mapping ext="wxml" type="HTML" />
       <mapping ext="wxs" type="JavaScript" />
       <mapping ext="mdx" type="Markdown" />
