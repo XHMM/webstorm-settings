@@ -24,6 +24,7 @@
       <mapping pattern="UserActions,tsx" type="PLAIN_TEXT" />
       <mapping pattern=".browserslist" type="PLAIN_TEXT" />
       <mapping pattern="100-same-tree" type="PLAIN_TEXT" />
+      <mapping pattern=".sentryclirc" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="2019-04-18-useful-but-not-requently-used-sites-collection" type="PLAIN_TEXT" />
       <mapping pattern="comparison-operators-and-type-convert-in-js" type="PLAIN_TEXT" />
