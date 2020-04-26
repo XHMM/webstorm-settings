@@ -1,7 +1,7 @@
 <application>
   <component name="LogHighlightingSettings">
     <parsingPatterns>
-      <LogParsingPattern name="hu-pm2" timePattern="yyyy-dd-MMM  HH:m" fullmatch="true" />
+      <LogParsingPattern name="hu-pm2" pattern="^(\d{4}-\d{2}-\d{2}\s\d{2}:\d{2})\s\+\d{2}:\d{2}:\s(.*)$" timePattern="yyyy-MM-dd  HH:mm" linePattern="^\d{4}" timeId="0" fullmatch="true" />
     </parsingPatterns>
     <settingsVersion>4</settingsVersion>
     <lastAddedDefaultFormat>3</lastAddedDefaultFormat>
