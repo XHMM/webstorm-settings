@@ -1,0 +1,7 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="49.234.10.53" id="62349e60-e7d3-4c7b-a13c-2988bf067d43" keyPath="C:\Users\xh\tencent-xhmm.ppk" port="22" customName="tencent-xhmm" nameFormat="CUSTOM" />
+    </configs>
+  </component>
+</application>
