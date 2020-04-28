@@ -5,6 +5,7 @@
       <sshConfig host="49.234.10.53" id="0481c660-33d7-4c60-9c61-e2bdd4d47b10" keyPath="C:\Users\xh\tencent-xhmm.ppk" port="22" customName="tencent-xhmm" nameFormat="CUSTOM" />
       <sshConfig host="49.234.10.53" id="e4c7e4e5-f8df-418d-8536-1babac8effa3" keyPath="C:\Users\xh\tencent-xhmm.ppk" port="22" customName="tencent-xhmm" nameFormat="CUSTOM" />
       <sshConfig host="49.234.10.53" id="8a386c98-f666-479b-b701-8fb4003e9466" keyPath="C:\Users\xh\tencent-xhmm.ppk" port="22" customName="tencent-xhmm" nameFormat="CUSTOM" />
+      <sshConfig host="49.234.10.53" id="2af5dcf8-0236-40d8-b214-ed77178bdd3f" keyPath="C:\Users\xh\tencent-xhmm.ppk" port="22" customName="tencent-xhmm" nameFormat="CUSTOM" />
     </configs>
   </component>
 </application>
