@@ -1,6 +1,11 @@
 <keymap version="1" name="IntelliJ IDEA Classic copy" parent="Mac OS X">
   <action id="Exit" />
   <action id="InsertLiveTemplate" />
+  <action id="QuickJavaDoc">
+    <keyboard-shortcut first-keystroke="ctrl j" />
+    <mouse-shortcut keystroke="control button2" />
+    <keyboard-shortcut first-keystroke="alt q" />
+  </action>
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="meta j" />
   </action>
