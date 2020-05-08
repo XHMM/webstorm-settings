@@ -8,7 +8,6 @@
       <mapping ext="wxml" type="HTML" />
       <mapping ext="wxs" type="JavaScript" />
       <mapping ext="mdx" type="Markdown" />
-      <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping pattern="LISCENSE" type="PLAIN_TEXT" />
       <mapping pattern="UserActions,tsx" type="PLAIN_TEXT" />
       <mapping pattern="comparison-operators-and-type-convert-in-js" type="PLAIN_TEXT" />
@@ -18,18 +17,19 @@
       <mapping pattern="2019-04-18-useful-but-not-requently-used-sites-collection" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="100-same-tree" type="PLAIN_TEXT" />
+      <mapping pattern="btmp" type="PLAIN_TEXT" />
       <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".eiditorconfig" type="PLAIN_TEXT" />
-      <mapping pattern="btmp" type="PLAIN_TEXT" />
+      <mapping pattern="aa" type="PLAIN_TEXT" />
       <mapping pattern=".scssrc" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="promise-implement-in-js" type="PLAIN_TEXT" />
       <mapping pattern="q" type="PLAIN_TEXT" />
       <mapping pattern="mnist_labels_uint8" type="PLAIN_TEXT" />
       <mapping pattern=".postcssrc" type="PLAIN_TEXT" />
-      <mapping pattern="aa" type="PLAIN_TEXT" />
+      <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping ext="data-00000-of-00001" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
       <mapping ext="obj" type="PLAIN_TEXT" />
@@ -38,7 +38,6 @@
       <mapping ext="-" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <mapping ext="page" type="Twig" />
       <mapping pattern="tsconfig*.json" type="tsconfig" />
       <removed_mapping ext="wxs" approved="true" type="Vue.js" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
