@@ -4,7 +4,7 @@
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="ctrl j" />
     <mouse-shortcut keystroke="control button2" />
-    <keyboard-shortcut first-keystroke="alt q" />
+    <keyboard-shortcut first-keystroke="ctrl q" />
   </action>
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="meta j" />
