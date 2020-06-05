@@ -9,7 +9,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="bedbda1e-f0a1-455c-8543-525cf011eb2e" name="raspberry">
-        <fileTransfer rootFolder="/home/pi" accessType="SFTP" host="192.168.0.102" port="22" sshConfigId="24f0de33-0690-497d-bfb9-9ffc5bf7c212" sshConfig="pi@192.168.0.102:22 password">
+        <fileTransfer rootFolder="/home/pi" accessType="SFTP" host="124.89.93.14" port="8083" sshConfigId="24f0de33-0690-497d-bfb9-9ffc5bf7c212" sshConfig="pi@124.89.93.14:8083 password">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
