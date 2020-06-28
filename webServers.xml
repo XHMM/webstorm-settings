@@ -2,11 +2,17 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="34a9f9e0-02e9-4931-9b8f-434b1b25907f" name="tencent-xhmm" url="http://49.234.10.53">
-        <fileTransfer host="49.234.10.53" port="22" privateKey="C:\Users\xh\tencent-xhmm.ppk" accessType="SFTP" keyPair="true">
+        <fileTransfer accessType="SFTP" host="49.234.10.53" port="22" sshConfigId="77c164fd-210d-4a76-92cc-b9fac927d7df" sshConfig="root@49.234.10.53:22 key" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
-          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="bedbda1e-f0a1-455c-8543-525cf011eb2e" name="raspberry">
+        <fileTransfer rootFolder="/home/pi" accessType="SFTP" host="124.89.93.14" port="8083" sshConfigId="24f0de33-0690-497d-bfb9-9ffc5bf7c212" sshConfig="pi@124.89.93.14:8083 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
         </fileTransfer>
       </webServer>
     </option>
