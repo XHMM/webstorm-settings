@@ -6,6 +6,7 @@
       <mapping ext="coolq" type="Dockerfile" />
       <mapping ext="node" type="Dockerfile" />
       <mapping ext="wxml" type="HTML" />
+      <mapping ext="do" type="JSON" />
       <mapping ext="wxs" type="JavaScript" />
       <mapping ext="mdx" type="Markdown" />
       <mapping pattern="1" type="PLAIN_TEXT" />
