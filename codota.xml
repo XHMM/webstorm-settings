@@ -1,9 +1,18 @@
 <application>
   <component name="CodotaSettings">
+    <option name="methodCompletionsPercentageSet" value="true" />
     <option name="id" value="83759eb0-cc69-4025-a1b2-e639b37170ee" />
     <option name="wasRunBefore" value="true" />
     <option name="firstRun" value="1565460495135" />
     <option name="generation" value="37" />
     <option name="updateGeneration" value="1" />
+    <option name="isMethodCompletionsPercentageActive" value="true" />
+    <option name="isMethodCompletionsPercentageSet" value="true" />
+    <option name="isTelemetryEnabled" value="false" />
+    <option name="usedLanguages">
+      <set>
+        <option value="javascript" />
+      </set>
+    </option>
   </component>
 </application>
