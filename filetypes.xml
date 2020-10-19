@@ -6,7 +6,10 @@
       <mapping ext="coolq" type="Dockerfile" />
       <mapping ext="node" type="Dockerfile" />
       <mapping ext="wxml" type="HTML" />
+      <mapping pattern="member" type="JSON" />
       <mapping pattern="getActStatus" type="JSON" />
+      <mapping pattern="bu" type="JSON" />
+      <mapping pattern="group" type="JSON" />
       <mapping ext="do" type="JSON" />
       <mapping ext="wxs" type="JavaScript" />
       <mapping ext="mdx" type="Markdown" />
@@ -22,6 +25,7 @@
       <mapping pattern="promise-implement-in-js" type="PLAIN_TEXT" />
       <mapping pattern="file" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern="common/item/group" type="PLAIN_TEXT" />
       <mapping pattern=".sentryclirc" type="PLAIN_TEXT" />
       <mapping pattern="btmp" type="PLAIN_TEXT" />
       <mapping pattern=".eiditorconfig" type="PLAIN_TEXT" />
