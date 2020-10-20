@@ -15,6 +15,7 @@
       <mapping ext="do" type="JSON" />
       <mapping ext="wxs" type="JavaScript" />
       <mapping ext="mdx" type="Markdown" />
+      <mapping pattern="query" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="comparison-operators-and-type-convert-in-js" type="PLAIN_TEXT" />
       <mapping pattern="mnist_labels_uint8" type="PLAIN_TEXT" />
