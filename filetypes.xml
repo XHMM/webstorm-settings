@@ -6,6 +6,7 @@
       <mapping ext="coolq" type="Dockerfile" />
       <mapping ext="node" type="Dockerfile" />
       <mapping ext="wxml" type="HTML" />
+      <mapping pattern="query" type="JSON" />
       <mapping pattern="phy" type="JSON" />
       <mapping pattern="label" type="JSON" />
       <mapping pattern="member" type="JSON" />
@@ -15,7 +16,6 @@
       <mapping ext="do" type="JSON" />
       <mapping ext="wxs" type="JavaScript" />
       <mapping ext="mdx" type="Markdown" />
-      <mapping pattern="query" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="comparison-operators-and-type-convert-in-js" type="PLAIN_TEXT" />
       <mapping pattern="mnist_labels_uint8" type="PLAIN_TEXT" />
@@ -37,8 +37,8 @@
       <mapping pattern=".scssrc" type="PLAIN_TEXT" />
       <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="api/xhr/actReport/getThrough/getActStatus" type="PLAIN_TEXT" />
       <mapping pattern=".sassrc" type="PLAIN_TEXT" />
+      <mapping pattern="api/xhr/actReport/getThrough/getActStatus" type="PLAIN_TEXT" />
       <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
       <mapping pattern="LISCENSE" type="PLAIN_TEXT" />
       <mapping pattern="aa" type="PLAIN_TEXT" />
@@ -59,6 +59,7 @@
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping pattern="query" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="do" approved="true" type="JSON5" />
