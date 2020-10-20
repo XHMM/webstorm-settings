@@ -6,6 +6,7 @@
       <mapping ext="coolq" type="Dockerfile" />
       <mapping ext="node" type="Dockerfile" />
       <mapping ext="wxml" type="HTML" />
+      <mapping pattern="phy" type="JSON" />
       <mapping pattern="label" type="JSON" />
       <mapping pattern="member" type="JSON" />
       <mapping pattern="getActStatus" type="JSON" />
