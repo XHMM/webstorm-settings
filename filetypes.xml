@@ -9,8 +9,8 @@
       <mapping pattern="phy" type="JSON" />
       <mapping pattern="group" type="JSON" />
       <mapping pattern="query" type="JSON" />
-      <mapping pattern="label" type="JSON" />
       <mapping pattern="member" type="JSON" />
+      <mapping pattern="label" type="JSON" />
       <mapping pattern="getActStatus" type="JSON" />
       <mapping pattern="bu" type="JSON" />
       <mapping ext="do" type="JSON" />
