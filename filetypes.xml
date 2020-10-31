@@ -4,6 +4,7 @@
       <mapping ext="wxss" type="CSS" />
       <mapping pattern="test" type="Dockerfile" />
       <mapping ext="coolq" type="Dockerfile" />
+      <mapping ext="docker" type="Dockerfile" />
       <mapping ext="node" type="Dockerfile" />
       <mapping ext="wxml" type="HTML" />
       <mapping pattern="phy" type="JSON" />
