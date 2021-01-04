@@ -29,6 +29,7 @@
       <mapping pattern=".sentryclirc" type="PLAIN_TEXT" />
       <mapping pattern="btmp" type="PLAIN_TEXT" />
       <mapping pattern="x05" type="PLAIN_TEXT" />
+      <mapping pattern=".lessrc" type="PLAIN_TEXT" />
       <mapping pattern=".sassrc" type="PLAIN_TEXT" />
       <mapping pattern="LISCENSE" type="PLAIN_TEXT" />
       <mapping pattern="aa" type="PLAIN_TEXT" />
