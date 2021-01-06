@@ -7,48 +7,42 @@
       <mapping ext="docker" type="Dockerfile" />
       <mapping ext="node" type="Dockerfile" />
       <mapping ext="wxml" type="HTML" />
-      <mapping pattern="phy" type="JSON" />
-      <mapping pattern="group" type="JSON" />
-      <mapping pattern="query" type="JSON" />
-      <mapping pattern="member" type="JSON" />
-      <mapping pattern="label" type="JSON" />
-      <mapping pattern="getActStatus" type="JSON" />
-      <mapping pattern="bu" type="JSON" />
       <mapping pattern=".typesyncrc" type="JSON" />
+      <mapping pattern="getAll" type="JSON" />
       <mapping ext="do" type="JSON" />
       <mapping ext="wxs" type="JavaScript" />
       <mapping ext="mdx" type="Markdown" />
       <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="eagle/activityPutForward/yxicnew/api/xhr/actReport/getThrough/isOldRepairOrder" type="PLAIN_TEXT" />
       <mapping pattern="isOldRepairOrder" type="PLAIN_TEXT" />
+      <mapping pattern=".postcssrc" type="PLAIN_TEXT" />
+      <mapping pattern="comparison-operators-and-type-convert-in-js" type="PLAIN_TEXT" />
       <mapping pattern="mnist_labels_uint8" type="PLAIN_TEXT" />
+      <mapping pattern=".browserslist" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="BUILD_ID" type="PLAIN_TEXT" />
       <mapping pattern="q" type="PLAIN_TEXT" />
-      <mapping pattern="file" type="PLAIN_TEXT" />
-      <mapping pattern=".sentryclirc" type="PLAIN_TEXT" />
-      <mapping pattern="btmp" type="PLAIN_TEXT" />
-      <mapping pattern="x05" type="PLAIN_TEXT" />
-      <mapping pattern=".lessrc" type="PLAIN_TEXT" />
-      <mapping pattern=".sassrc" type="PLAIN_TEXT" />
-      <mapping pattern="LISCENSE" type="PLAIN_TEXT" />
-      <mapping pattern="aa" type="PLAIN_TEXT" />
-      <mapping pattern=".postcssrc" type="PLAIN_TEXT" />
-      <mapping pattern="comparison-operators-and-type-convert-in-js" type="PLAIN_TEXT" />
-      <mapping pattern=".browserslist" type="PLAIN_TEXT" />
       <mapping pattern="2019-04-18-useful-but-not-requently-used-sites-collection" type="PLAIN_TEXT" />
       <mapping pattern="promise-implement-in-js" type="PLAIN_TEXT" />
+      <mapping pattern="file" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="common/item/group" type="PLAIN_TEXT" />
+      <mapping pattern=".sentryclirc" type="PLAIN_TEXT" />
+      <mapping pattern="btmp" type="PLAIN_TEXT" />
       <mapping pattern=".eiditorconfig" type="PLAIN_TEXT" />
       <mapping pattern="100-same-tree" type="PLAIN_TEXT" />
+      <mapping pattern="x05" type="PLAIN_TEXT" />
+      <mapping pattern=".lessrc" type="PLAIN_TEXT" />
       <mapping pattern=".scssrc" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".notion.id.glk91N" type="PLAIN_TEXT" />
       <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping pattern="api/xhr/actReport/getThrough/getActStatus" type="PLAIN_TEXT" />
+      <mapping pattern=".sassrc" type="PLAIN_TEXT" />
       <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
+      <mapping pattern="LISCENSE" type="PLAIN_TEXT" />
       <mapping pattern="getThrough/getActStatus" type="PLAIN_TEXT" />
+      <mapping pattern="aa" type="PLAIN_TEXT" />
       <mapping pattern="UserActions,tsx" type="PLAIN_TEXT" />
       <mapping ext="data-00000-of-00001" type="PLAIN_TEXT" />
       <mapping ext="hcy" type="PLAIN_TEXT" />
@@ -70,7 +64,14 @@
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <removed_mapping ext="wxs" approved="true" type="Vue.js" />
-      <removed_mapping pattern="query" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="bu" approved="true" type="JSON" />
+      <removed_mapping pattern="getActStatus" approved="true" type="JSON" />
+      <removed_mapping pattern="getAll" approved="true" type="AUTO_DETECTED" />
+      <removed_mapping pattern="group" approved="true" type="JSON" />
+      <removed_mapping pattern="label" approved="true" type="JSON" />
+      <removed_mapping pattern="member" approved="true" type="JSON" />
+      <removed_mapping pattern="phy" approved="true" type="JSON" />
+      <removed_mapping pattern="query" approved="true" type="JSON" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
