@@ -34,11 +34,11 @@
       <mapping pattern="x05" type="PLAIN_TEXT" />
       <mapping pattern=".lessrc" type="PLAIN_TEXT" />
       <mapping pattern=".scssrc" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern=".notion.id.glk91N" type="PLAIN_TEXT" />
       <mapping pattern="a" type="PLAIN_TEXT" />
-      <mapping pattern="api/xhr/actReport/getThrough/getActStatus" type="PLAIN_TEXT" />
+      <mapping pattern=".notion.id.glk91N" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".sassrc" type="PLAIN_TEXT" />
+      <mapping pattern="api/xhr/actReport/getThrough/getActStatus" type="PLAIN_TEXT" />
       <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
       <mapping pattern="LISCENSE" type="PLAIN_TEXT" />
       <mapping pattern="getThrough/getActStatus" type="PLAIN_TEXT" />
