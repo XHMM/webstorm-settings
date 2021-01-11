@@ -8,6 +8,7 @@
       <mapping ext="node" type="Dockerfile" />
       <mapping ext="wxml" type="HTML" />
       <mapping pattern="add" type="JSON" />
+      <mapping pattern="handler/getAll" type="JSON" />
       <mapping pattern="edit" type="JSON" />
       <mapping pattern="getDetail/123" type="JSON" />
       <mapping pattern=".typesyncrc" type="JSON" />
