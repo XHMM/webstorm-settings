@@ -7,6 +7,7 @@
       <mapping ext="docker" type="Dockerfile" />
       <mapping ext="node" type="Dockerfile" />
       <mapping ext="wxml" type="HTML" />
+      <mapping pattern="daily/activity/edit" type="JSON" />
       <mapping pattern="add" type="JSON" />
       <mapping pattern="participant" type="JSON" />
       <mapping pattern="handler/getAll" type="JSON" />
