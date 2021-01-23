@@ -1,4 +1,4 @@
-<keymap version="1" name="IntelliJ IDEA Classic copy" parent="Mac OS X">
+<keymap version="1" name="my-keymap" parent="Mac OS X">
   <action id="Exit" />
   <action id="InsertLiveTemplate" />
   <action id="QuickJavaDoc">
