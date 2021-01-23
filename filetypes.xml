@@ -7,9 +7,12 @@
       <mapping ext="docker" type="Dockerfile" />
       <mapping ext="node" type="Dockerfile" />
       <mapping ext="wxml" type="HTML" />
+      <mapping pattern="daily/activity/edit" type="JSON" />
       <mapping pattern="add" type="JSON" />
+      <mapping pattern="sales/picAddr" type="JSON" />
       <mapping pattern="participant" type="JSON" />
       <mapping pattern="handler/getAll" type="JSON" />
+      <mapping pattern="picAddr" type="JSON" />
       <mapping pattern="edit" type="JSON" />
       <mapping pattern="getDetail/123" type="JSON" />
       <mapping pattern=".typesyncrc" type="JSON" />
@@ -59,6 +62,7 @@
       <mapping ext="-" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="p12" type="PLAIN_TEXT" />
+      <mapping ext="tx" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
       <mapping pattern="tsconfig*.json" type="tsconfig" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />

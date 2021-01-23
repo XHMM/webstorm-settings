@@ -13,9 +13,10 @@
     <mask>*.mxml</mask>
     <mask>*.wxss</mask>
     <mask>*.wxml</mask>
-    <mask>*.js</mask>
     <mask>*.ts</mask>
     <mask>!*.d.ts</mask>
+    <mask>!*.json,!*.d.ts,!*.map,!*.js</mask>
     <mask>!*.d.ts,!*.map,!*.js</mask>
+    <mask>*.js</mask>
   </component>
 </application>
