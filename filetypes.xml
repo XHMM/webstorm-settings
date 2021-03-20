@@ -53,6 +53,7 @@
       <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
       <mapping pattern="getThrough/getActStatus" type="PLAIN_TEXT" />
       <mapping pattern="UserActions,tsx" type="PLAIN_TEXT" />
+      <mapping ext="glb" type="PLAIN_TEXT" />
       <mapping ext="data-00000-of-00001" type="PLAIN_TEXT" />
       <mapping ext="hcy" type="PLAIN_TEXT" />
       <mapping ext="sock" type="PLAIN_TEXT" />
