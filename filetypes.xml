@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="v1/workOrder/detail" type="AUTO_DETECTED" />
       <mapping ext="wxss" type="CSS" />
       <mapping pattern="test" type="Dockerfile" />
       <mapping ext="coolq" type="Dockerfile" />
@@ -17,6 +18,7 @@
       <mapping pattern="getDetail/123" type="JSON" />
       <mapping pattern=".typesyncrc" type="JSON" />
       <mapping pattern="getAll" type="JSON" />
+      <mapping pattern="detail" type="JSON" />
       <mapping pattern="123" type="JSON" />
       <mapping ext="do" type="JSON" />
       <mapping ext="wxs" type="JavaScript" />
