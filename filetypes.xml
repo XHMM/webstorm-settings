@@ -10,6 +10,8 @@
       <mapping ext="wxml" type="HTML" />
       <mapping pattern="daily/activity/edit" type="JSON" />
       <mapping pattern="add" type="JSON" />
+      <mapping pattern="upsert" type="JSON" />
+      <mapping pattern="submit" type="JSON" />
       <mapping pattern="sales/picAddr" type="JSON" />
       <mapping pattern="participant" type="JSON" />
       <mapping pattern="handler/getAll" type="JSON" />
