@@ -10,12 +10,16 @@
       <mapping ext="wxml" type="HTML" />
       <mapping pattern="daily/activity/edit" type="JSON" />
       <mapping pattern="add" type="JSON" />
+      <mapping pattern="upsert" type="JSON" />
+      <mapping pattern="submit" type="JSON" />
       <mapping pattern="sales/picAddr" type="JSON" />
       <mapping pattern="participant" type="JSON" />
       <mapping pattern="handler/getAll" type="JSON" />
       <mapping pattern="picAddr" type="JSON" />
+      <mapping pattern="query" type="JSON" />
       <mapping pattern="edit" type="JSON" />
       <mapping pattern="getDetail/123" type="JSON" />
+      <mapping pattern="promCube/query" type="JSON" />
       <mapping pattern=".typesyncrc" type="JSON" />
       <mapping pattern="getAll" type="JSON" />
       <mapping pattern="detail" type="JSON" />
@@ -84,7 +88,6 @@
       <removed_mapping pattern="label" approved="true" type="JSON" />
       <removed_mapping pattern="member" approved="true" type="JSON" />
       <removed_mapping pattern="phy" approved="true" type="JSON" />
-      <removed_mapping pattern="query" approved="true" type="JSON" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
