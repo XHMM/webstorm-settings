@@ -13,6 +13,7 @@
       <mapping pattern="upsert" type="JSON" />
       <mapping pattern="submit" type="JSON" />
       <mapping pattern="sales/picAddr" type="JSON" />
+      <mapping pattern="import" type="JSON" />
       <mapping pattern="participant" type="JSON" />
       <mapping pattern="itemCube/query" type="JSON" />
       <mapping pattern="handler/getAll" type="JSON" />
