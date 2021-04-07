@@ -11,8 +11,8 @@
       <mapping pattern="daily/activity/edit" type="JSON" />
       <mapping pattern="add" type="JSON" />
       <mapping pattern="upsert" type="JSON" />
-      <mapping pattern="submit" type="JSON" />
       <mapping pattern="sales/picAddr" type="JSON" />
+      <mapping pattern="submit" type="JSON" />
       <mapping pattern="import" type="JSON" />
       <mapping pattern="participant" type="JSON" />
       <mapping pattern="itemCube/query" type="JSON" />
@@ -54,9 +54,9 @@
       <mapping pattern=".eiditorconfig" type="PLAIN_TEXT" />
       <mapping pattern="100-same-tree" type="PLAIN_TEXT" />
       <mapping pattern=".scssrc" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern=".notion.id.glk91N" type="PLAIN_TEXT" />
       <mapping pattern="a" type="PLAIN_TEXT" />
+      <mapping pattern=".notion.id.glk91N" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="api/xhr/actReport/getThrough/getActStatus" type="PLAIN_TEXT" />
       <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
       <mapping pattern="getThrough/getActStatus" type="PLAIN_TEXT" />
