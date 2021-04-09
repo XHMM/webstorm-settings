@@ -19,6 +19,7 @@
       <mapping pattern="handler/getAll" type="JSON" />
       <mapping pattern="picAddr" type="JSON" />
       <mapping pattern="query" type="JSON" />
+      <mapping pattern="update" type="JSON" />
       <mapping pattern="edit" type="JSON" />
       <mapping pattern="getDetail/123" type="JSON" />
       <mapping pattern="promCube/query" type="JSON" />
