@@ -13,13 +13,11 @@
       <mapping pattern="upsert" type="JSON" />
       <mapping pattern="sales/picAddr" type="JSON" />
       <mapping pattern="submit" type="JSON" />
-      <mapping pattern="import" type="JSON" />
       <mapping pattern="participant" type="JSON" />
       <mapping pattern="itemCube/query" type="JSON" />
       <mapping pattern="handler/getAll" type="JSON" />
       <mapping pattern="picAddr" type="JSON" />
       <mapping pattern="query" type="JSON" />
-      <mapping pattern="update" type="JSON" />
       <mapping pattern="edit" type="JSON" />
       <mapping pattern="getDetail/123" type="JSON" />
       <mapping pattern="promCube/query" type="JSON" />
