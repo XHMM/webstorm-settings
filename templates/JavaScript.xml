@@ -36,4 +36,12 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="sleep" value="await new Promise(resolve =&gt; {&#10;    setTimeout(resolve, $TIME$)&#10;});$END$" toReformat="false" toShortenFQNames="true">
+    <variable name="TIME" expression="" defaultValue="2000" alwaysStopAt="true" />
+    <context>
+      <option name="ECMAScript6" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>
